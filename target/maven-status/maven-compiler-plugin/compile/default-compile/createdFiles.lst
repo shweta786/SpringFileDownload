@@ -1,0 +1,3 @@
+com\hiber\controller\DownoadController.class
+com\hiber\security\WebInitializer.class
+com\hiber\security\WebConfig.class
